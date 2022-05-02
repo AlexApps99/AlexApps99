@@ -1,16 +1,32 @@
-### Hi there 👋
+### About me
 
-<!--
-**AlexApps99/AlexApps99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Languages:
+##### Proficient:
+- Rust
+- Python
+- C
+- JavaScript
+- GLSL
+##### Confident:
+- C++
+- MATLAB
+- Java
+- C#
+##### Some experience:
+- TypeScript
+- Assembly
+- Lua
 
-Here are some ideas to get you started:
+#### Greatest feats:
+- Reverse engineered [Cheggers Party Quiz](https://en.wikipedia.org/wiki/Cheggers_Party_Quiz)
+- Made a good Chip8 emulator, a buggy NES emulator, and a buggier N64 emulator
+- I automate the editing and uploading of 4 meme compilation videos a day to [my YouTube channel](https://www.youtube.com/channel/UCsSkN-Xh7SqSaSULYHG4OXA/videos)
+- Calculated Pi to tens of thousands of digits with my math library
+- Ported [Bad Apple](https://en.wikipedia.org/wiki/Bad_Apple!!#Use_as_a_graphical_and_audio_test) to my calculator
+- I've made a lot of GPU-accelerated stuff in GLSL, including a [fluid simulation](https://yttriferous.dev/moist/), and some SDF raymarchers
+- Made a 3D space visualization with OpenGL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Hobbies:
+- Making failed game engines and games
+- Abandoning side projects by making new side projects to distract me from my other side projects
+- Cheggers Party Quiz
